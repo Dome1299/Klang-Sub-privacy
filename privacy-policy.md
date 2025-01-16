@@ -1,42 +1,127 @@
 Privacy Policy
-Introduction
-Our privacy policy will help you understand what information we collect at Klang Sub, how Klang Sub uses it, and what choices you have. Klang Sub built the Klang Sub app as a free app. This SERVICE is provided by Klang Sub at no cost and is intended for use as is. If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise defined in this Privacy Policy.
+This privacy policy applies to the Klang Sub app (hereby referred to as "Application") for mobile devices that was created by Dome Paen-in (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
+
 
 Information Collection and Use
-For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.
-The app does use third party services that may collect information used to identify you.
+The Application collects information when you download and use it. This information may include information such as
 
-Cookies
-Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.
+Your device's Internet Protocol address (e.g. IP address)
+The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
+The time spent on the Application
+The operating system you use on your mobile device
 
-This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+The Application does not gather precise information about the location of your mobile device.
 
-Location Information
-Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.
 
-Device Information
-We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.
+The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
 
-Service Providers
-We may employ third-party companies and individuals due to the following reasons:
 
-To facilitate our Service;
-To provide the Service on our behalf;
-To perform Service-related services; or
-To assist us in analyzing how our Service is used.
-We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to Email. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+
+
+Third Party Access
+Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+
+
+Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
+
+Google Play Services
+AdMob
+Firebase
+
+The Service Provider may disclose User Provided and Automatically Collected Information:
+
+as required by law, such as to comply with a subpoena, or similar legal process;
+when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
+with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+
+Opt-Out Rights
+You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+
+
+Data Retention Policy
+The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at dome65151@gmail.com and they will respond in a reasonable time.
+
+
+Children
+The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
+
+
+The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (dome65151@gmail.com) so that they will be able to take the necessary actions.
+
 
 Security
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
 
-Children’s Privacy
-This Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
 
-Changes to This Privacy Policy
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
+Changes
+This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+
+
+This privacy policy is effective as of 2025-01-16
+
+
+Your Consent
+By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
+
 
 Contact Us
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
-Contact Information:
-Email: dome65151@gmail.com
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at dome65151@gmail.com.
+
+This privacy policy page was generated by App Privacy Policy Generator
+
+นโยบายความเป็นส่วนตัว
+นโยบายความเป็นส่วนตัวนี้ใช้กับแอปพลิเคชัน Klang Sub สำหรับอุปกรณ์พกพาที่สร้างโดย Dome Paen-in  ในฐานะบริการฟรี บริการนี้มีวัตถุประสงค์เพื่อใช้ "ตามที่เป็น"
+
+การรวบรวมและการใช้ข้อมูล
+แอปพลิเคชันจะรวบรวมข้อมูลเมื่อคุณดาวน์โหลดและใช้งาน ข้อมูลนี้อาจรวมถึงข้อมูล เช่น
+
+ที่อยู่ Internet Protocol ของอุปกรณ์ของคุณ (เช่น ที่อยู่ IP)
+หน้าแอปพลิเคชันที่คุณเข้าชม เวลาและวันที่เข้าชม เวลาที่ใช้ในหน้าเหล่านั้น
+เวลาที่ใช้ในแอปพลิเคชัน
+ระบบปฏิบัติการที่คุณใช้บนอุปกรณ์พกพา
+
+แอปพลิเคชันไม่รวบรวมข้อมูลที่ชัดเจนเกี่ยวกับตำแหน่งของอุปกรณ์พกพาของคุณ
+
+ผู้ให้บริการอาจใช้ข้อมูลที่คุณให้ไว้เพื่อติดต่อคุณเป็นครั้งคราวเพื่อแจ้งข้อมูลสำคัญ ประกาศที่จำเป็น และโปรโมชั่นทางการตลาด
+
+เพื่อประสบการณ์ที่ดีขึ้น ขณะใช้แอปพลิเคชัน ผู้ให้บริการอาจขอให้คุณให้ข้อมูลส่วนบุคคลบางอย่างแก่เรา รวมถึงแต่ไม่จำกัดเพียงอีเมล ข้อมูลที่ผู้ให้บริการร้องขอจะถูกเก็บรักษาไว้โดยผู้ให้บริการและใช้ตามที่อธิบายไว้ในนโยบายความเป็นส่วนตัวนี้
+
+การเข้าถึงของบุคคลที่สาม
+ข้อมูลรวมที่ไม่ระบุตัวตนเท่านั้นที่จะถูกส่งต่อไปยังบริการภายนอกเป็นระยะๆ เพื่อช่วยให้ผู้ให้บริการปรับปรุงแอปพลิเคชันและบริการของตน ผู้ให้บริการอาจแบ่งปันข้อมูลของคุณกับบุคคลที่สามในลักษณะที่อธิบายไว้ในคำชี้แจงความเป็นส่วนตัวนี้
+
+โปรดทราบว่าแอปพลิเคชันใช้บริการของบุคคลที่สามซึ่งมีนโยบายความเป็นส่วนตัวของตนเองเกี่ยวกับการจัดการข้อมูล ด้านล่างนี้คือลิงก์ไปยังนโยบายความเป็นส่วนตัวของผู้ให้บริการบุคคลที่สามที่แอปพลิเคชันใช้:
+
+บริการ Google Play
+AdMob
+ไฟร์เบส
+
+ผู้ให้บริการอาจเปิดเผยข้อมูลที่ผู้ใช้ให้มาและรวบรวมโดยอัตโนมัติ:
+
+ตามที่กฎหมายกำหนด เช่น เพื่อปฏิบัติตามหมายเรียกหรือกระบวนการทางกฎหมายที่คล้ายคลึงกัน;
+เมื่อพวกเขาเชื่อโดยสุจริตใจว่าการเปิดเผยเป็นสิ่งจำเป็นในการปกป้องสิทธิ์ของพวกเขา ปกป้องความปลอดภัยของคุณหรือความปลอดภัยของผู้อื่น สืบสวนการฉ้อโกง หรือตอบสนองต่อคำขอของรัฐบาล; ผู้ให้บริการที่เชื่อถือได้ซึ่งทำงานในนามของพวกเขาไม่มีสิทธิ์ใช้ข้อมูลที่เราเปิดเผยให้พวกเขาอย่างอิสระ และได้ตกลงที่จะปฏิบัติตามกฎที่กำหนดไว้ในคำชี้แจงความเป็นส่วนตัวนี้
+
+สิทธิ์ในการไม่ยินยอม
+คุณสามารถหยุดการรวบรวมข้อมูลทั้งหมดโดยแอปพลิเคชันได้อย่างง่ายดายโดยการถอนการติดตั้ง คุณสามารถใช้กระบวนการถอนการติดตั้งมาตรฐานที่มีให้เป็นส่วนหนึ่งของอุปกรณ์มือถือของคุณหรือผ่านทางตลาดแอปพลิเคชันมือถือหรือเครือข่าย
+
+นโยบายการเก็บรักษาข้อมูล
+ผู้ให้บริการจะเก็บข้อมูลที่ผู้ใช้ให้ไว้ตราบเท่าที่คุณใช้แอปพลิเคชันและเป็นระยะเวลาที่เหมาะสมหลังจากนั้น หากคุณต้องการให้ผู้ให้บริการลบข้อมูลที่ผู้ใช้ให้ไว้ที่คุณให้ไว้ผ่านแอปพลิเคชัน โปรดติดต่อที่ dome65151@gmail.com และผู้ให้บริการจะตอบกลับภายในเวลาที่เหมาะสม
+
+เด็ก
+ผู้ให้บริการจะไม่ใช้แอปพลิเคชันเพื่อขอข้อมูลหรือทำการตลาดกับเด็กอายุต่ำกว่า 13 ปีโดยเจตนา
+
+แอปพลิเคชันไม่มุ่งเป้าไปที่ใครก็ตามที่มีอายุต่ำกว่า 13 ปี ผู้ให้บริการจะไม่รวบรวมข้อมูลส่วนตัวที่ระบุตัวตนของเด็กอายุต่ำกว่า 13 ปีโดยเจตนา ในกรณีที่ผู้ให้บริการพบว่าเด็กอายุต่ำกว่า 13 ปีได้ให้ข้อมูลส่วนบุคคล ผู้ให้บริการจะลบข้อมูลดังกล่าวออกจากเซิร์ฟเวอร์ทันที หากคุณเป็นผู้ปกครองหรือผู้ดูแล และคุณทราบว่าบุตรหลานของคุณได้ให้ข้อมูลส่วนบุคคลแก่เรา โปรดติดต่อผู้ให้บริการ (dome65151@gmail.com) เพื่อให้พวกเขาสามารถดำเนินการที่จำเป็นได้
+
+ความปลอดภัย
+ผู้ให้บริการมีความกังวลเกี่ยวกับการปกป้องความลับของข้อมูลของคุณ ผู้ให้บริการจัดให้มีการป้องกันทางกายภาพ อิเล็กทรอนิกส์ และตามขั้นตอน เพื่อปกป้องข้อมูลที่ผู้ให้บริการประมวลผลและดูแล
+
+การเปลี่ยนแปลง
+นโยบายความเป็นส่วนตัวนี้อาจได้รับการอัปเดตเป็นระยะไม่ว่าด้วยเหตุผลใดก็ตาม ผู้ให้บริการจะแจ้งให้คุณทราบถึงการเปลี่ยนแปลงใดๆ ของนโยบายความเป็นส่วนตัวโดยการอัปเดตหน้านี้ด้วยนโยบายความเป็นส่วนตัวฉบับใหม่ เราขอแนะนำให้คุณตรวจสอบนโยบายความเป็นส่วนตัวนี้เป็นประจำสำหรับการเปลี่ยนแปลงใดๆ เนื่องจากการใช้งานต่อเนื่องถือเป็นการอนุมัติการเปลี่ยนแปลงทั้งหมด
+
+นโยบายความเป็นส่วนตัวนี้มีผลใช้บังคับตั้งแต่วันที่ 16 มกราคม 2025
+
+ความยินยอมของคุณ
+การใช้แอปพลิเคชันแสดงว่าคุณยินยอมให้ดำเนินการประมวลผลข้อมูลของคุณตามที่ระบุไว้ในนโยบายความเป็นส่วนตัวฉบับนี้และตามที่เราแก้ไขเพิ่มเติม
+
+ติดต่อเรา
+หากคุณมีคำถามเกี่ยวกับความเป็นส่วนตัวขณะใช้แอปพลิเคชันหรือมีคำถามเกี่ยวกับแนวทางปฏิบัติดังกล่าว โปรดติดต่อผู้ให้บริการทางอีเมลที่ dome65151@gmail.com
